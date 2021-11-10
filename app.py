@@ -12,7 +12,7 @@ app.debug = True
 //ggdgdgdhh
 // dhfghfhfghffgdfsffsffhfhfdfd
 //tdfgfghggdfsfdfsggdfgdgdgdgdg
-//first
+//firstfdgd
 //second
 //third
 app.config['MYSQL_HOST'] = os.environ.get('MYSQL_HOST')
