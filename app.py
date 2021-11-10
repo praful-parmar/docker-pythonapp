@@ -9,7 +9,7 @@ import os
 app = Flask(__name__)
 app.debug = True
 
-
+//ggdgdgdhh
 
 
 app.config['MYSQL_HOST'] = os.environ.get('MYSQL_HOST')
